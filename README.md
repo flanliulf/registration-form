@@ -20,7 +20,6 @@
 
 ## 项目概要
 
-
 ### 项目架构
 
 1. **前端框架**：
@@ -113,7 +112,6 @@ registration-form/
    - 表单提交成功后的反馈
    - 可访问性优化
 
-
 ## 开始使用
 
 ### 环境要求
@@ -125,7 +123,7 @@ registration-form/
 
 1. 克隆项目到本地：
 ```bash
-git clone <项目地址>
+git clone git@github.com:flanliulf/registration-form.git
 cd registration-form
 ```
 
